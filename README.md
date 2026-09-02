@@ -159,7 +159,7 @@ this is a personal tool, not a legal shield. it blocks calls based on phone numb
 
 ## license
 
-originally created by [floatingskies](https://github.com/floatingskies), now fully open source and free. no paywall, no premium tier, no "unlock pro features" button. it's just an app i wanted to exist.
+originally created by [arikcloss](https://github.com/arikcloss), now fully open source and free. no paywall, no premium tier, no "unlock pro features" button. it's just an app i wanted to exist.
 
 feel free to fork it, modify it, break it, fix it, whatever. that's the whole point.
 
